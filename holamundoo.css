@@ -1,0 +1,67 @@
+td{
+
+    color: black;
+    
+    width: 300px; 
+    height: 300px;
+    font-family: fantasy;
+    
+    border: 1px solid black;
+}
+.garfield{
+    background-color: rgb(255, 166, 0);
+}
+.Vermas{
+    display: flex;
+    justify-content:center;
+}
+
+h1{
+    color: black;
+    font-size: 60px;
+    
+    
+    
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 80px;
+}
+   
+
+nav{
+    display: flex;
+    justify-content:center;
+}
+html{
+    background-image: url(https://w0.peakpx.com/wallpaper/732/848/HD-wallpaper-adventure-time-cartoon-network.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+
+table{
+    
+    text-align: center;
+padding: 80px;
+border-spacing: 50px;
+display: flex;
+justify-content: center;
+}
+.homero{
+    background-color: rgb(255, 217, 0);
+   
+    
+}
+.pink{
+    background-color: pink;
+    
+}
+li{
+    font-size:10px;
+    list-style-type:circle;
+}
+.rick{
+    background-color: rgb(4, 175, 4);
+}
+
